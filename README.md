@@ -1,0 +1,44 @@
+# Seminario de Apps móviles - Facultad de artes UNLP
+
+Este es el repositorio de código público de las aplicaciones realizadas en el seminario de aplicaciones móviles, dictado en la facultad de bellas artes de la UNLP para las carreras de diseño multimedial y diseño en comunicación visual.
+
+## Organización del repositorio
+
+En este repositorio se van a subir todas las aplicaciones realizadas, como también distintos proyectos relacionados a la tecnología y/o temática.
+
+### Prerequisitos para instalar
+
+Para clonar el repositorio
+
+```
+git clone https://github.com/tomibarbieri/seminarioapps-fba.git
+```
+
+### Carpetas internas
+
+Una descripción de las carpetas internas del repositorio.
+
+```
+/aplicaciones
+```
+[Aplicaciones](): todas las aplicaciones realizadas en sus subcarpetas.
+
+```
+/proyectos_asociados
+```
+[Proyectos asociados](): ejemplos de código de relacionados a la tecnología.
+
+```
+/material_escrito
+```
+[Material escrito](): documentos, clases, presentaciones de temas relacionados a la materia.
+
+## Tecnologías utilizadas
+
+* [React](https://es.reactjs.org/) - Una biblioteca de JavaScript para construir interfaces de usuario.
+* [React Native](https://facebook.github.io/react-native/) - Cree aplicaciones nativas para Android e iOS con React.
+* [Firebase](https://firebase.google.com/) - Base de datos sencilla para apps en la nube.
+
+## Licencia
+
+Este proyecto se encuentra bajo la licencia [MIT](https://es.wikipedia.org/wiki/Licencia_MIT) por lo tanto se puede reutilizar el codigo para cualquier fin noble.
