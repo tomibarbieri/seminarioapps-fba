@@ -21,17 +21,17 @@ Una descripción de las carpetas internas del repositorio.
 ```
 /aplicaciones
 ```
-[Aplicaciones](): todas las aplicaciones realizadas en sus subcarpetas.
-
-```
-/proyectos_asociados
-```
-[Proyectos asociados](): ejemplos de código de relacionados a la tecnología.
+[Aplicaciones](https://github.com/tomibarbieri/seminarioapps-fba/tree/master/aplicaciones): todas las aplicaciones realizadas en sus subcarpetas.
 
 ```
 /material_escrito
 ```
-[Material escrito](): documentos, clases, presentaciones de temas relacionados a la materia.
+[Material escrito](https://github.com/tomibarbieri/seminarioapps-fba/tree/master/material_escrito): documentos, clases, presentaciones de temas relacionados a la materia.
+
+```
+/proyectos_asociados
+```
+[Proyectos asociados](https://github.com/tomibarbieri/seminarioapps-fba/tree/master/proyectos_asociados): ejemplos de código de relacionados a la tecnología.
 
 ## Tecnologías utilizadas
 
